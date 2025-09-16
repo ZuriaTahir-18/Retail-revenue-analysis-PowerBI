@@ -43,4 +43,6 @@ It helped me gain hands-on experience in:
 - Business intelligence dashboard development  
 - Communicating data-driven insights effectively  
 
-lpful or want to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/).  
+## 🙌 Connect with Me
+
+If you found this project helpful or want to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/).  
